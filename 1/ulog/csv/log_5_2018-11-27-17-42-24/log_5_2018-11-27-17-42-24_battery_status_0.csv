@@ -1,0 +1,8 @@
+timestamp,voltage_v,voltage_filtered_v,current_a,current_filtered_a,average_current_a,discharged_mah,remaining,scale,temperature,cell_count,capacity,cycle_count,run_time_to_empty,average_time_to_empty,serial_number,connected,system_source,priority,is_powering_off,warning
+2842583,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0
+3346541,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0
+3850702,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0
+4359411,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0
+4851437,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0
+5355448,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0
+5861081,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,1.0,0.0,3,0,0,0,0,0,0,0,0,0,0

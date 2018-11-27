@@ -1,0 +1,4 @@
+timestamp,heartbeat_time,telem_time,rxerrors,fixed,type,rssi,remote_rssi,noise,remote_noise,txbuf,system_id,component_id
+3825808,3825808,0,0,0,4,0,0,0,0,0,0,0
+4817367,4817367,0,0,0,4,0,0,0,0,0,0,0
+5818040,5818040,0,0,0,4,0,0,0,0,0,0,0
